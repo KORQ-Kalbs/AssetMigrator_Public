@@ -96,6 +96,6 @@ python main.py --excel "Source_Export.xlsx" --on-existing overwrite
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for details.
+Directed By KORQ-Kalbs
 
 # AssetMigrator_Public
