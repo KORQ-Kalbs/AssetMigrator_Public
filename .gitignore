@@ -1,0 +1,16 @@
+# Credentials & Tokens
+credentials.json
+token.json
+	# Excel Data Files
+*.xlsx
+*.xls
+
+# Generated Logs & Reports
+logs/
+reports/temp/
+
+# Python Cache & IDEs
+__pycache__/
+*.pyc
+.vscode/
+.idea/

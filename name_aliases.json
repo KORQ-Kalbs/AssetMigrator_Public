@@ -1,0 +1,7 @@
+// Here is a list of name aliases that will be used to match the asset names to the correct asset code.
+// e.g:
+{
+  "Tv": [
+    "Televisi"
+  ]
+}
